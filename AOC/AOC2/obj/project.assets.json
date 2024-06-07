@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\AOC\\AOC\\AOC.csproj",
-      "projectName": "AOC",
-      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\AOC\\AOC\\AOC.csproj",
+      "projectUniqueName": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\AOC\\AOC2\\AOC2.csproj",
+      "projectName": "AOC2",
+      "projectPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\AOC\\AOC2\\AOC2.csproj",
       "packagesPath": "C:\\Users\\karga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\AOC\\AOC\\obj\\",
+      "outputPath": "C:\\Users\\karga\\Desktop\\LK\\Projekter\\cositas\\AOC\\AOC2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karga\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,18 @@ C:\Users\karga\Desktop\LK\Getting Real\AOC\AOC\obj\Debug\net8.0\refint\AOC.dll
 C:\Users\karga\Desktop\LK\Getting Real\AOC\AOC\obj\Debug\net8.0\AOC.pdb
 C:\Users\karga\Desktop\LK\Getting Real\AOC\AOC\obj\Debug\net8.0\AOC.genruntimeconfig.cache
 C:\Users\karga\Desktop\LK\Getting Real\AOC\AOC\obj\Debug\net8.0\ref\AOC.dll
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\bin\Debug\net8.0\AOC.exe
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\bin\Debug\net8.0\AOC.deps.json
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\bin\Debug\net8.0\AOC.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\bin\Debug\net8.0\AOC.dll
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\bin\Debug\net8.0\AOC.pdb
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\AOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\AOC.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\AOC.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\AOC.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\AOC.sourcelink.json
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\AOC.dll
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\refint\AOC.dll
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\AOC.pdb
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\AOC.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC\AOC\obj\Debug\net8.0\ref\AOC.dll
