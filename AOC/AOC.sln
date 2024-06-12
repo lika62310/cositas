@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AOC", "AOC\AOC.csproj", "{28CC52E4-0B25-4B7F-84F0-5475EFAA05F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC2", "AOC2\AOC2.csproj", "{8F67C579-F6CA-4664-A7F8-57CD2A627F70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AOC2", "AOC2\AOC2.csproj", "{8F67C579-F6CA-4664-A7F8-57CD2A627F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC4", "AOC4\AOC4.csproj", "{AF68C817-CAF7-4089-99AD-68EC63C54243}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8F67C579-F6CA-4664-A7F8-57CD2A627F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F67C579-F6CA-4664-A7F8-57CD2A627F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F67C579-F6CA-4664-A7F8-57CD2A627F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF68C817-CAF7-4089-99AD-68EC63C54243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF68C817-CAF7-4089-99AD-68EC63C54243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF68C817-CAF7-4089-99AD-68EC63C54243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF68C817-CAF7-4089-99AD-68EC63C54243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
