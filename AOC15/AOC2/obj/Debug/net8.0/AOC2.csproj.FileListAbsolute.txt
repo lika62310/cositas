@@ -1,0 +1,15 @@
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\bin\Debug\net8.0\AOC2.exe
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\bin\Debug\net8.0\AOC2.deps.json
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\bin\Debug\net8.0\AOC2.runtimeconfig.json
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\bin\Debug\net8.0\AOC2.dll
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\bin\Debug\net8.0\AOC2.pdb
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\AOC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\AOC2.AssemblyInfoInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\AOC2.AssemblyInfo.cs
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\AOC2.csproj.CoreCompileInputs.cache
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\AOC2.sourcelink.json
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\AOC2.dll
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\refint\AOC2.dll
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\AOC2.pdb
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\AOC2.genruntimeconfig.cache
+C:\Users\karga\Desktop\LK\Projekter\cositas\AOC15\AOC2\obj\Debug\net8.0\ref\AOC2.dll
